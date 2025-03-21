@@ -1,0 +1,21 @@
+<Stack>
+  <item>
+    <id>1</id>
+    <name>fkjsdhglifjhlgif</name>
+    <coordinates>
+      <xcoord>12</xcoord>
+      <ycoord>13.0</ycoord>
+    </coordinates>
+    <creationDate>2025-03-21</creationDate>
+    <realHero>true</realHero>
+    <hasToothpick>false</hasToothpick>
+    <impactSpeed>432786489732</impactSpeed>
+    <minutesOfWaiting>32424.0</minutesOfWaiting>
+    <weaponType>SHOTGUN</weaponType>
+    <mood>GLOOM</mood>
+    <car>
+      <name>bmw</name>
+      <cool>true</cool>
+    </car>
+  </item>
+</Stack>
